@@ -1,2 +1,1 @@
-pip install numpy
-pip install scipy
+Build a machine learning model for a Naive Bayes Spam Classifier using python and scikit-learn
